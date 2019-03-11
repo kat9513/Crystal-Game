@@ -1,0 +1,56 @@
+body{
+    background-image: linear-gradient(#faaca8, #ddd6f3);
+}
+.jumbotron {
+  margin: auto;  
+  background-image: url("images/fotografierende-1294274-unsplash.jpg");
+  background-size: 1200px 600px;
+  width: 75%;
+  height: 100%;
+  border-radius: 25px;
+}
+h1.text-center.title {
+    font-family: 'Berkshire Swash', cursive;
+    src: url("/assets/Bedrock.otf") format("opentype");
+    color: lavender;
+}
+h3.text-center.instruction {
+    color: lavender;
+    font-family: 'Buenard', serif;
+    background-image: linear-gradient(to right, #667eea, navy);    
+    margin: auto;
+    border-radius: 25px;
+    padding: 20px;
+}
+.instructionDiv{
+    margin: auto;
+    width: 50%;
+    padding-top: 60px;
+}
+.scoreboard{
+    background-image: linear-gradient(to right, #667eea, navy);    margin: auto;
+    width: 25%;
+    color: lavender;
+    font-family: 'Buenard', serif;
+    border-radius: 25px;
+}
+#wins{
+    padding: 5px;
+}
+#computerchoice{
+    font-size: 20pt;
+    color: violet;
+}
+#total{
+    font-size: 20pt;
+    color: violet;
+}
+.scoreTitle{
+    padding: 20px;
+}
+div.crystal_group{
+    margin: auto;
+    width: 75%;
+    padding-top: 60px;
+    padding-left: 80px;
+}
