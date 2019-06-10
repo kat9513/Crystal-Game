@@ -77,3 +77,43 @@ h3.text-center.instruction {
 .scoreTitle{
     padding: 20px;
 }
+
+@media only screen and (max-width: 1000px) {
+    .instructions{
+        width: 100%;
+    }
+    h3.text-center.instruction {
+        font-size: 10pt;
+    }
+    .crystal-image{
+        width: 15%;
+    }
+    #crystal1{
+        float: left;
+
+    }
+    #crystal2{
+        float: left;
+    }
+    #crystal3{
+        float: left;
+    }
+    #crystal4{
+        float: left;
+    }
+    .scoreboard{
+        float: right;
+        width: 25%;
+    }
+    .scoreTitle{
+        font-size: 15pt;
+        float: left;
+        padding-left: 5%;
+    }
+    #total{
+        font-size: 10pt;
+    }
+    #computerchoice{
+        font-size: 10pt;
+    }
+  
